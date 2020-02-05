@@ -6,7 +6,10 @@ amir
 shit
 
 je travaille sur new1 branch now
+<<<<<<< HEAD
 a
 b
 
 teste
+=======
+>>>>>>> 930e710abd082b4a4aadb8307f3dc2f02a044f68

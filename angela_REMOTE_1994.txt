@@ -6,7 +6,3 @@ amir
 shit
 
 je travaille sur new1 branch now
-a
-b
-
-teste
